@@ -7,8 +7,8 @@
 ## Setup/Installation Requirements
 
 - _Clone from the following repository https://github.com/kmgarvey279/Count-up._
-- The program does not currently have a user interface, so it can only be tested using .Net.
-- To test the program, simply navigate to the RPS.Tests directory and run dotnet test in the command line. 
+- _The program does not currently have a user interface, so it can only be tested using .Net._
+- _To test the program, simply navigate to the RPS.Tests directory and run dotnet test in the command line._ 
 
 ## Specs
 
